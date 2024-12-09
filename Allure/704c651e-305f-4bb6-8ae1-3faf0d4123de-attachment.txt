@@ -1,0 +1,12 @@
+initiating chrome driver
+initiating chrome driver
+Qualitrix Application is launched Successfully ... ..... PASS
+Qualitrix logo is present
+Get a quote button text iswhite
+Getaquote buttonbgcolor isorrange
+0px 12px
+center
+20px
+14px
+Company cladding detail is:20p
+Company cladding detail is:14px

@@ -1,0 +1,116 @@
+when the value of i is :1 the value of the text is : +1 (339) 368-6545
+when the value of i is :2 the value of the text is : +91-962-077-4653
+when the value of i is :3 the value of the text is : sara@qualitrix.com
+when the value of i is :4 the value of the text is : 
+when the value of i is :5 the value of the text is : +91-973-179-7782
+when the value of i is :6 the value of the text is : careers@qualitrix.com
+when the value of i is :7 the value of the text is : 
+when the value of i is :8 the value of the text is : 
+when the value of i is :9 the value of the text is : COMPANY
+when the value of i is :10 the value of the text is : SOLUTIONS
+when the value of i is :11 the value of the text is : 
+when the value of i is :12 the value of the text is : 
+when the value of i is :13 the value of the text is : 
+when the value of i is :14 the value of the text is : 
+when the value of i is :15 the value of the text is : 
+when the value of i is :16 the value of the text is : ENGAGEMENT
+when the value of i is :17 the value of the text is : RESOURCES
+when the value of i is :18 the value of the text is : 
+when the value of i is :19 the value of the text is : 
+when the value of i is :20 the value of the text is : 
+when the value of i is :21 the value of the text is : 
+when the value of i is :22 the value of the text is : PARTNER
+when the value of i is :23 the value of the text is : CAREERS
+when the value of i is :24 the value of the text is : STARTUP
+when the value of i is :25 the value of the text is : GET A QUOTE
+when the value of i is :26 the value of the text is : 
+when the value of i is :27 the value of the text is : 
+when the value of i is :28 the value of the text is : 
+when the value of i is :29 the value of the text is : 
+when the value of i is :30 the value of the text is : 
+when the value of i is :31 the value of the text is : 
+when the value of i is :32 the value of the text is : 
+when the value of i is :33 the value of the text is : 
+when the value of i is :34 the value of the text is : 
+when the value of i is :35 the value of the text is : 
+when the value of i is :36 the value of the text is : USER TESTING
+when the value of i is :37 the value of the text is : AUTOMATION TESTING
+when the value of i is :38 the value of the text is : DIGITAL TEST CENTER
+when the value of i is :39 the value of the text is : GET STARTED
+when the value of i is :40 the value of the text is : 
+when the value of i is :41 the value of the text is : Enhancing Digital Banking Experience with AI-Driven Quality Assurance
+when the value of i is :42 the value of the text is : 
+when the value of i is :43 the value of the text is : 
+when the value of i is :44 the value of the text is : 
+when the value of i is :45 the value of the text is : 1
+when the value of i is :46 the value of the text is : 2
+when the value of i is :47 the value of the text is : 
+when the value of i is :48 the value of the text is : 
+when the value of i is :49 the value of the text is : Functional
+when the value of i is :50 the value of the text is : Surveys & Audits
+when the value of i is :51 the value of the text is : Market Analysis
+when the value of i is :52 the value of the text is : Content
+when the value of i is :53 the value of the text is : Accessibility
+when the value of i is :54 the value of the text is : Ethical hacking
+when the value of i is :55 the value of the text is : LEARN MORE
+when the value of i is :56 the value of the text is : Regression
+when the value of i is :57 the value of the text is : Live Monitoring
+when the value of i is :58 the value of the text is : API
+when the value of i is :59 the value of the text is : Usability
+when the value of i is :60 the value of the text is : Performance
+when the value of i is :61 the value of the text is : LEARN MORE
+when the value of i is :62 the value of the text is : LEARN MORE
+when the value of i is :63 the value of the text is : 
+when the value of i is :64 the value of the text is : READ MORE
+when the value of i is :65 the value of the text is : LEARN MORE ABOUT OPRIMES
+when the value of i is :66 the value of the text is : 
+when the value of i is :67 the value of the text is : 
+when the value of i is :68 the value of the text is : 
+when the value of i is :69 the value of the text is : 
+when the value of i is :70 the value of the text is : 
+when the value of i is :71 the value of the text is : 
+when the value of i is :72 the value of the text is : 1
+when the value of i is :73 the value of the text is : 2
+when the value of i is :74 the value of the text is : 3
+when the value of i is :75 the value of the text is : 
+when the value of i is :76 the value of the text is : 
+when the value of i is :77 the value of the text is : 
+when the value of i is :78 the value of the text is : Mobile Test Automation Trends to Watch in 2025
+when the value of i is :79 the value of the text is : 
+when the value of i is :80 the value of the text is : Revolutionizing Digital Banking with AI-Driven Testing Solutions
+when the value of i is :81 the value of the text is : 
+when the value of i is :82 the value of the text is : Optimizing Performance in Low Bandwidth Environments: A Comprehensive Approach
+when the value of i is :83 the value of the text is : 
+when the value of i is :84 the value of the text is : 
+when the value of i is :85 the value of the text is : About
+when the value of i is :86 the value of the text is : Our mission
+when the value of i is :87 the value of the text is : Team
+when the value of i is :88 the value of the text is : Our office
+when the value of i is :89 the value of the text is : Gallery
+when the value of i is :90 the value of the text is : Blog
+when the value of i is :91 the value of the text is : Partner
+when the value of i is :92 the value of the text is : Qualitrix Quality Policy
+when the value of i is :93 the value of the text is : Customer Complaint
+when the value of i is :94 the value of the text is : Functional
+when the value of i is :95 the value of the text is : Survey & Audits
+when the value of i is :96 the value of the text is : Market Analysis
+when the value of i is :97 the value of the text is : Content
+when the value of i is :98 the value of the text is : Accessibility
+when the value of i is :99 the value of the text is : Ethical Hacking
+when the value of i is :100 the value of the text is : Regression
+when the value of i is :101 the value of the text is : Live Monitoring
+when the value of i is :102 the value of the text is : API
+when the value of i is :103 the value of the text is : Usability
+when the value of i is :104 the value of the text is : Performance
+when the value of i is :105 the value of the text is : Skype
+when the value of i is :106 the value of the text is : Email
+when the value of i is :107 the value of the text is : Contact Us
+when the value of i is :108 the value of the text is : Digital Test Center
+when the value of i is :109 the value of the text is : 
+when the value of i is :110 the value of the text is : 
+when the value of i is :111 the value of the text is : 
+when the value of i is :112 the value of the text is : oprimes
+when the value of i is :113 the value of the text is : Terms of use
+when the value of i is :114 the value of the text is : Privacy Policy
+when the value of i is :115 the value of the text is : 
+when the value of i is :116 the value of the text is : Ok

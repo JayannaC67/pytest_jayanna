@@ -1,0 +1,6 @@
+initiating chrome driver
+initiating chrome driver
+Qualitrix Application is launched Successfully ... ..... PASS
+Qualitrix logo is present
+Get a quote button text isrgba(255, 255, 255, 1)
+Getaquote buttonbgcolor isrgba(242, 145, 17, 1)
