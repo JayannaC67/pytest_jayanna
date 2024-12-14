@@ -1,0 +1,6 @@
+when the value of i is :1 the value of the text is : Product
+when the value of i is :2 the value of the text is : Product
+when the value of i is :3 the value of the text is : Product
+when the value of i is :4 the value of the text is : Product
+when the value of i is :5 the value of the text is : Product
+when the value of i is :6 the value of the text is : Product

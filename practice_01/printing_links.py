@@ -13,12 +13,14 @@ class Print_links:
 
     def print_all_links(self):
 
-        total_links_count = driver.find_elements(By.XPATH,"//a")
-        # total_links_count = len(driver.find_elements(By.XPATH,"//a"))
-        print(len(total_links_count))
+        total_links_countt = driver.find_elements(By.XPATH,"//a")
         total_links_count = len(driver.find_elements(By.XPATH,"//a"))
+        print(total_links_count)
+        total_links_count = len(driver.find_elements(By.XPATH, "//a"))
 
-        file = open("C:\\Users\LenT14G2ITL\\PycharmProjects\\jay_pythonbasic_learning\practice_01\\linktext.txt", "w")
+        for i in total_links_countt:
+            print(i.text)
+        file = open("C:\\Users\LenT14G2ITL\\PycharmProjects\\jay_pythonbasic_learning\\practice_01\\linktext.txt", "w")
 
         for i in range (1,total_links_count+1):
 

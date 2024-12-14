@@ -1,4 +1,0 @@
-initiating chrome driver
-initiating chrome driver
-Qualitrix Application is launched Successfully ... ..... PASS
-Qualitrix logo is present

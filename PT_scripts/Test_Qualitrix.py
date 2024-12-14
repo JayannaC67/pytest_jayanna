@@ -21,7 +21,11 @@ class Test_Qualitrix_e2e:
         #homepage.closing_browser()
         homepage.validate_buttoncolor()
 
-'''
+
+
+
+
+
 
     def test_saucelabvalidation(self, readJson):
 
@@ -29,5 +33,5 @@ class Test_Qualitrix_e2e:
         Login.launch_saucelab(readJson['url_saucelab'])
         Login.login_cred(self)
         
-'''
+
 

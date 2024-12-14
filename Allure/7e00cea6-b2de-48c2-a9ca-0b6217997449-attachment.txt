@@ -1,4 +1,0 @@
-initiating chrome driver
-initiating chrome driver
-saucelab launched
-Login successfull

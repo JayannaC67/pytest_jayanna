@@ -8,6 +8,8 @@ import time
 from Locators import Qualitrix_home
 from Locators.Qualitrix_home import company_tab
 from Page_objects import common
+from Locators import Table
+from selenium.webdriver.common.action_chains import ActionChains
 
 class Qualitrix_page_object:
 
@@ -78,6 +80,17 @@ class Qualitrix_page_object:
         print("Company cladding detail is:" + common.company("font-size"))
 
         assert font_size==common.company("font-size")
+
+
+
+    def launchh_the_app(self, url):
+        self.driver.get(url)
+        self.driver.implicitly_wait(10)
+        print("practice automation Application is launched Successfully ... ..... PASS")
+
+
+
+
 
 
 
