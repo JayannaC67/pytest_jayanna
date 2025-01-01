@@ -265,7 +265,7 @@ class Stakifyy_page_object:
         ActionChains(self.driver).context_click(Java).perform()
         time.sleep(2)
 
-
+#git update code
  #code for scroll down-up
 
  from selenium.webdriver.common.action_chains import ActionChains
