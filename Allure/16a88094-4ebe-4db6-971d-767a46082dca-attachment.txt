@@ -32,5 +32,10 @@ request demo button displayed
 Stackify is now BMC. Read theBlog
 demo req clicked
 schedule demo clicked without details
+checkbox is present
 False
 True
+apm clicked
+EE0A5547EE811D6752CE6A2731D238C8
+https://sandbox.stackify.com/?returnUrl=%2FStacks%2FApps%2F801bd0c3-1a19-e611-80c3-000d3a3283d0%3Fenv%3DDemo%2520Dual%26_ga%3D2.262322636.1593080312.1735715020-1955856382.1735715020#performance
+

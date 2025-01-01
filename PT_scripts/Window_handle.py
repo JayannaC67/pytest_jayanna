@@ -18,7 +18,7 @@ class Test_windowhandle:
         original_window = self.driver.current_window_handle
         print(original_window)
 
-        # Click the link which opens in a new window
+        # Click the link which opens  a new window
         self.driver.find_element(By.XPATH, "//button[text()='Open Window']").click()
         time.sleep(1)
 

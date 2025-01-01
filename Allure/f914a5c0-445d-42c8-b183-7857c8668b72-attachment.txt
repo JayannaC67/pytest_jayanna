@@ -1,0 +1,44 @@
+initiating chrome driver
+initiating chrome driver
+Stakify Application is launched Successfully ... ..... PASS
+we are in Stakify homepage
+https://stackify.com/
+valid url
+Application Performance Monitoring Tools For Developers
+6
+Product
+Pricing
+Solutions
+Learn
+Login
+Start Free Trial
+when the value of i is :1 the value of the text is : Product
+when the value of i is :2 the value of the text is : Product
+when the value of i is :3 the value of the text is : Product
+when the value of i is :4 the value of the text is : Product
+when the value of i is :5 the value of the text is : Product
+when the value of i is :6 the value of the text is : Product
+Data is written into the file.
+7
+ruby clicked
+https://stackify.com/retrace-apm-ruby/
+valid ruby url
+False
+review our docs
+review doc clicked
+came back to previous page
+Start free trial displayed
+request demo button displayed
+Stackify is now BMC. Read theBlog
+demo req clicked
+schedule demo clicked without details
+checkbox is present
+False
+True
+apm clicked
+<selenium.webdriver.remote.webelement.WebElement (session="d0246946f7a0fb7c6a0c02d10e8a0ba6", element="f.EAA45CE25C9709B202C3E89E119CCE2F.d.5EAF600F72A801C9B0D413F4AECD22B4.e.423")>
+EAA45CE25C9709B202C3E89E119CCE2F
+https://sandbox.stackify.com/?returnUrl=%2FStacks%2FApps%2F801bd0c3-1a19-e611-80c3-000d3a3283d0%3Fenv%3DDemo%2520Dual%26_ga%3D2.63848424.615424262.1735718522-255696888.1735718522#performance
+
+https://stackify.com/retrace-application-performance-management/
+Retrace Application Performance Monitoring - Stackify
