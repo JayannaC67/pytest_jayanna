@@ -240,6 +240,7 @@ class Stakifyy_page_object:
                 time.sleep(2)
                 self.driver.close()
         self.driver.switch_to.window(original_window)
+        time.sleep(2)
         print(self.driver.current_url)
         print(self.driver.title)
 
